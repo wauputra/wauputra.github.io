@@ -1,0 +1,82 @@
+{
+    "dir" : "ltr",
+    "lang" : "Indonesian",
+    "name" : "Wauputra",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "https://wauputra.github.io/",
+    "short_name" : "Wauputra",
+    "theme_color" : "transparent",
+    "description" : "Wahyu Adi Putra Personal Website",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "TRUE",
+    "prefer_related_applications" : "false",
+    "icons" : [
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "48x48"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "300x300"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "150x150"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "88x88"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "24x24"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "50x50"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "620x300"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "72x72"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "36x36"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "180x180"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "152x152"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "120x120"
+        },
+        {
+            "src": "assets/images/logo-wau-dark-110x110.jpg",
+            "sizes": "76x76"
+        }],
+    "screenshots" : [],
+    "generated" : "true"
+}
