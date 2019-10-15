@@ -77,6 +77,8 @@
             "src": "assets/images/logo-wau-dark-110x110.jpg",
             "sizes": "76x76"
         }],
-    "screenshots" : [],
+    "screenshots" : [{
+    "src": "assets/images/background-hp-xiaomi-redmi-note-4x-black2.jpg"
+    }],
     "generated" : "true"
 }
